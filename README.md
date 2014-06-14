@@ -1,0 +1,4 @@
+dottig
+======
+
+Tig configuration files
